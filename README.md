@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on Full Stack S.E and Full Stack JS Development<br>🌱 Learning about Full stack Backend Development<br>👯 I’m looking to collaborate on any project.<br>💬 Ask me about any thing, I'll be sure to be generous<br>📫 How to reach me: andrewgthi@gmail.com
+🔭 A Full Stack JavaScript Developer working on Full Stack S.E<br>🌱 Learning about Full stack Backend Development<br>👯 I’m looking to collaborate on any project.<br>💬 Ask me about any thing, I'll be sure to be generous<br>📫 How to reach me: andrewgthi@gmail.com
 
 
 ## 🌐 Socials:
